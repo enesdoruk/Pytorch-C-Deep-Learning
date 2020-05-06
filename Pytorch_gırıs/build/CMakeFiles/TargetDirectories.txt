@@ -1,0 +1,3 @@
+/home/enes/Desktop/pytorch/build/CMakeFiles/edit_cache.dir
+/home/enes/Desktop/pytorch/build/CMakeFiles/rebuild_cache.dir
+/home/enes/Desktop/pytorch/build/CMakeFiles/pytorch.dir
