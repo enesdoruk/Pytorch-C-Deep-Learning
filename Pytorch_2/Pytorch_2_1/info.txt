@@ -1,0 +1,10 @@
+Dataset/airplanes/image_1.jpg 0 train
+Dataset/airplanes/image_2.jpg 0 train
+Dataset/airplanes/image_3.jpg 0 train
+Dataset/airplanes/image_4.jpg 0 train
+Dataset/airplanes/image_5.jpg 0 train
+Dataset/motorcycle/image_6.jpg 1 train
+Dataset/motorcycle/image_7.jpg 1 train
+Dataset/motorcycle/image_8.jpg 1 train
+Dataset/motorcycle/image_9.jpg 1 train
+Dataset/motorcycle/image_10.jpg 1 train
